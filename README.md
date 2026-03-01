@@ -61,7 +61,7 @@ Content-Type: application/json
 
 | Method | Endpoint   | Description                        |
 |--------|------------|------------------------------------|
-| GET    | /health    | Health check — returns model version |
+| GET    | /health    | Health check, returns model version |
 | POST   | /predict   | Accepts features, returns prediction |
 
 **HTTP status codes used:**
